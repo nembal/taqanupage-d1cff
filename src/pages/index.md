@@ -8,7 +8,7 @@ sections:
     title: Lets see what else
     content: 'I am unsure if I am changing my text '
     actions:
-      - label: Learn More
+      - label: Sign up
         url: /signup
         style: primary
   - section_id: reviews
