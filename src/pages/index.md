@@ -6,7 +6,7 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: 'Digital Trust '
-    content: 'I am unsure if I am changing my text '
+    content: A catalyst for global inclusion
     actions:
       - label: Sign up
         url: /signup
