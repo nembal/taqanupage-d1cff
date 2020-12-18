@@ -13,7 +13,7 @@ sections:
         style: primary
   - section_id: call-to-action
     type: section_cta
-    title: A catalyst for global inclusion
+    title: Keep updated.
     subtitle: ''
     actions:
       - label: Get Started
