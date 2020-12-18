@@ -11,16 +11,6 @@ sections:
       - label: Sign up
         url: /signup
         style: primary
-  - section_id: call-to-action
-    type: section_cta
-    title: ''
-    subtitle: ''
-    actions:
-      - label: Get Started
-        url: /signup
-        style: secondary
-        has_icon: false
-        icon_position: right
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
 template: landing
