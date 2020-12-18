@@ -3,7 +3,7 @@
     "palette": "blue",
     "header": {
         "logo_img": "images/logo_wide.png",
-        "logo_img_alt": "Taqanu",
+        "logo_img_alt": "Taqanu_logo",
         "has_nav": true,
         "nav_links": [
             {
