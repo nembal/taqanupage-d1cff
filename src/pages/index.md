@@ -13,7 +13,7 @@ sections:
         style: primary
   - section_id: call-to-action
     type: section_cta
-    title: Keep updated.
+    title: ''
     subtitle: ''
     actions:
       - label: Get Started
