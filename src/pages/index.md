@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Get Started
         url: /signup
-        style: primary
+        style: secondary
         has_icon: false
 meta_title: Stackbit Azimuth Theme
 meta_description: The preview of the Azimuth theme
