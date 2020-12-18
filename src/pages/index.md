@@ -9,7 +9,7 @@ sections:
     content: 'I am unsure if I am changing my text '
     actions:
       - label: Learn More
-        url: /features
+        url: /signup
         style: primary
   - section_id: reviews
     type: section_reviews
