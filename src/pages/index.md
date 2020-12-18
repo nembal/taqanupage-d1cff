@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: home
     type: section_hero
-    image: images/hero.png
+    image: images/back4.jpg
     image_alt: App preview
     title: 'Digital Trust '
     content: A catalyst for global inclusion
