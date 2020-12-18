@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: Lets see what else
+    title: 'Digital Trust '
     content: 'I am unsure if I am changing my text '
     actions:
       - label: Sign up
