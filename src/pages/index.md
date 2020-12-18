@@ -13,7 +13,7 @@ sections:
         style: primary
   - section_id: call-to-action
     type: section_cta
-    title: Want to follo
+    title: AWant to follo
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
